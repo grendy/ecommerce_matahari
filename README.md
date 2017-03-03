@@ -1,7 +1,7 @@
 # ecommerce_matahari
 Crawling ecommerce matahari using scrapy and send json to kafka
 ##Understand the web structure
-Must understand web structure as xpath and css selector
+Must understand web structure like xpath and css selector
 ##Install scrapy on centos
 ```bash 
 sudo rpm -Uvh http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-5.noarch.rpm
